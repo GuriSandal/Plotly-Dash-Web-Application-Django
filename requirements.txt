@@ -22,7 +22,7 @@ django-bootstrap4==1.1.1
 django-plotly-dash==1.0.1
 django-redis==4.10.0
 dpd-components==0.1.0
-Flask==1.1.1
+Flask==2.3.2
 Flask-Compress==1.4.0
 future==0.18.1
 hiredis==1.0.0
